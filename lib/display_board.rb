@@ -8,8 +8,4 @@ def display_board
   puts "   |   |   "
 
 end
-  Print "   |   |   "
-  Print "-----------"
-  Print "   |   |   "
-  Print "-----------"
-  Print "   |   |   "
+  
