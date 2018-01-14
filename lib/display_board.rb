@@ -7,10 +7,9 @@ def display_board
   puts "-----------"
   puts "   |   |   "
 
-  Print "   |   |   "
-  Print "-----------"
-  Print "   |   |   "
-  Print "-----------"
-  Print "   |   |   "
-
 end
+  Print "   |   |   "
+  Print "-----------"
+  Print "   |   |   "
+  Print "-----------"
+  Print "   |   |   "
